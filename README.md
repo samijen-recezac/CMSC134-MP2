@@ -34,7 +34,7 @@ Public keys are stored in `directory.json`.
 
 Command:
 
-python mp2.py send <sender> <receiver> <message>
+python mp2.py send `<sender> <receiver> <message>`
 
 ---
 
@@ -45,13 +45,13 @@ python mp2.py send <sender> <receiver> <message>
 3. Plaintext is displayed
 
 Command:
-python mp2.py receive <receiver>
+python mp2.py receive `<receiver>`
 
 ---
 
 ## Generate user
 
-python mp2.py generate <username>
+python mp2.py generate `<username>`
 
 ---
 
