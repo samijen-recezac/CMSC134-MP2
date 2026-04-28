@@ -1,0 +1,10 @@
+{
+    "userA": {
+        "enc_pub": "userA_enc_pub.pem",
+        "sign_pub": "userA_sign_pub.pem"
+    },
+    "userB": {
+        "enc_pub": "userB_enc_pub.pem",
+        "sign_pub": "userB_sign_pub.pem"
+    }
+}
